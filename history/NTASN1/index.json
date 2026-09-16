@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "NTASN1.dll",
+  "latest": "2667946327-5858845AC890E5F0CB04F2303DD78B3E-1",
+  "builds": [
+    {
+      "key": "2667946327-5858845AC890E5F0CB04F2303DD78B3E-1",
+      "timestamp": "2667946327",
+      "pdb_guid": "5858845AC890E5F0CB04F2303DD78B3E",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/2667946327-5858845AC890E5F0CB04F2303DD78B3E-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
